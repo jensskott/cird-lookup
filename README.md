@@ -1,5 +1,11 @@
 # cird-lookup
 
+## Build 
+
+```shell
+make all
+make install
+```
 
 ## Usage
 
