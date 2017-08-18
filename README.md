@@ -4,7 +4,7 @@
 ## Usage
 
 ```shell
-cidrlookup -r "aws-region-1"
+cidrlookup -r "aws-region-1" -t "name tag to search for"
 ```
 
 ## Explaination
